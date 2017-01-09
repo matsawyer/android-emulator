@@ -2,12 +2,9 @@
 
 Android-emulator is yet another Docker image with Android SDK and emulator inside (based on tons of other works).
 
-Cloned from tracer0tong's android-emulator Repository
-
-see:  
+Cloned from tracer0tong's android-emulator repository, see below:  
 
 https://github.com/tracer0tong/android-emulator
-      
       
 https://hub.docker.com/r/tracer0tong/android-emulator/~/dockerfile/
 
