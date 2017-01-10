@@ -8,16 +8,8 @@ https://github.com/tracer0tong/android-emulator
       
 https://hub.docker.com/r/tracer0tong/android-emulator/~/dockerfile/
 
-Aims:
-
-  - Make stable and reliable Docker container
-  - Put some tools for static analysis inside
-  - Implement useful commands to Makefile
-
 Docker image available from [Docker registry].
 
-### Version
-0.0.5
 
 ### Tech
 
